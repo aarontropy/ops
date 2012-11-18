@@ -5,6 +5,7 @@ EPO Open Patent Services
 
 OPS Documentation
 =================
+http://www.epo.org/searching/free/ops.html
 http://documents.epo.org/projects/babylon/eponot.nsf/0/2F88B7285FC1E3ECC125785500531278/$File/OPS_v2_6_2_documentation_v1_0_4_en.pdf
 
 
